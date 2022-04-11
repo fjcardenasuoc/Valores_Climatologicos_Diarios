@@ -61,6 +61,3 @@ WMO Global Observing System: https://public.wmo.int/en/programmes/global-observi
 Resolución 40 de la OMM: https://community.wmo.int/resolution-40
  
 Nota Legal de AEMET: http://www.aemet.es/es/nota_legal
- 
-Intervalos de grados sexagesimales correspondientes a rumbos. https://www.todoababor.es/historia/maniobras-de-un-buque-de-vela-conceptos-basicos/
-
